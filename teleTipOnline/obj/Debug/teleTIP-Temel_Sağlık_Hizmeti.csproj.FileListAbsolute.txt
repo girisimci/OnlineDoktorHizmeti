@@ -1,0 +1,7 @@
+C:\Users\BOX\Desktop\teleTIP-Temel_Sağlık_Hizmeti\teleTIP-Temel_Sağlık_Hizmeti\bin\teleTIP-Temel_Sağlık_Hizmeti.dll.config
+C:\Users\BOX\Desktop\teleTIP-Temel_Sağlık_Hizmeti\teleTIP-Temel_Sağlık_Hizmeti\bin\teleTIP-Temel_Sağlık_Hizmeti.dll
+C:\Users\BOX\Desktop\teleTIP-Temel_Sağlık_Hizmeti\teleTIP-Temel_Sağlık_Hizmeti\bin\teleTIP-Temel_Sağlık_Hizmeti.pdb
+C:\Users\BOX\Desktop\teleTIP-Temel_Sağlık_Hizmeti\teleTIP-Temel_Sağlık_Hizmeti\obj\Debug\teleTIP-Temel_Sağlık_Hizmeti.csprojAssemblyReference.cache
+C:\Users\BOX\Desktop\teleTIP-Temel_Sağlık_Hizmeti\teleTIP-Temel_Sağlık_Hizmeti\obj\Debug\teleTIP-Temel_Sağlık_Hizmeti.csproj.CoreCompileInputs.cache
+C:\Users\BOX\Desktop\teleTIP-Temel_Sağlık_Hizmeti\teleTIP-Temel_Sağlık_Hizmeti\obj\Debug\teleTIP-Temel_Sağlık_Hizmeti.dll
+C:\Users\BOX\Desktop\teleTIP-Temel_Sağlık_Hizmeti\teleTIP-Temel_Sağlık_Hizmeti\obj\Debug\teleTIP-Temel_Sağlık_Hizmeti.pdb

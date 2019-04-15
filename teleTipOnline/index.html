@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>teleTIP  |  Online Doktor Hizmeti</title>
+		<meta charset="utf-8">
+        <script src="jquery.js"></script>
+        <script src="peer.js"></script>
+        <script src="socket.io.js"></script>
+
+        
+
+    </head>
+    <body>
+
+        <div id="div-chat">
+        <h2>Online Kullanıcılar</h2>
+        <ul id="ulUser">
+
+        </ul>
+        <!--Video Elementleri-->
+        <h3 id="myPeer">ID :</h3>
+        <video id="localStream" width="600"  controls autoplay></video>
+        <br /><br />
+        <video id="remoteStream" width="600" controls autoplay></video>
+        <br /><br />
+
+        <!--Arama Buttonları-->
+        
+        <input type="text" id="remoteId" placeholder="Remote ID">
+        <button id="btnCall">Ara</button>
+        <button id="btnAnswer">Cevap</button>
+    </div>
+    <div>
+
+    
+        <br><br>
+        <input type="text" id="txtUsername" placeholder="Kullanıcı Adı Girin">
+        <button id="btnSingUp">Giriş</button>
+
+    </div id="div-btn">
+
+</body>
+    <script src="main.js"></script>
+</html>
